@@ -1,0 +1,26 @@
+nav{
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+.logo2{
+    margin-left: 2vw;
+    margin-top: -150vh;
+}
+.Design{
+    text-align: start;
+    font-size: 16px;
+    margin-top: -148vh;
+}
+.links{
+    font-size: 22px;
+    margin-left: 23vw;
+    margin-top: -148vh;
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+.link{
+    font-size: 0.5em;
+    font-weight: 700;
+}
